@@ -1,6 +1,6 @@
 # analyzer
 
-Aanlyzer is a dashboard builder that lets you build and customize your own dashboard fast and easy. Try it out and let me know what you think.
+Analyzer is a dashboard builder that lets you build and customize your own dashboard fast and easy. Try it out and let me know what you think.
 
 https://ridwanullah-ibraheem.shinyapps.io/analyzer/
 
