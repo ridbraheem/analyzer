@@ -17,7 +17,11 @@ dashboardPage(skin = "purple",
                 "Analyzer"),
              h4(style = "margin-bottom: 5%;", 
                 "A dashboard builder that lets you build and customize your own dashboard fast and easy."),
-             h5("Scroll down to try it out!")
+             h5("Scroll down to try it out!"),
+             a(class="btn btn-primary",
+               href="https://github.com/ridbraheem/analyzer",
+               role="button",
+               "How It Works")
         ),
     fluidRow(
       box(width = 12, 
